@@ -3,9 +3,6 @@
 
 <p align="center">
 <br><br>
-<a href="https://www.youtube.com/channel/UCfm1j-HLS4YfIvR8wT0ZvvA">
-<img src="https://img.shields.io/youtube/channel/subscribers/UCfm1j-HLS4YfIvR8wT0ZvvA?style=social">
-</a>
 <br>
 </p>
 
